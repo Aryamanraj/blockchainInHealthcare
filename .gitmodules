@@ -1,3 +1,6 @@
 [submodule "lmasa"]
 	path = lmasa
 	url = https://github.com/Aryamanraj/lmasa
+[submodule "ethindiaApi"]
+	path = ethindiaApi
+	url = https://github.com/Aryamanraj/ethindiaApi
